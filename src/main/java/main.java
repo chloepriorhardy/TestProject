@@ -3,6 +3,7 @@ public class main {
         String greeting = "hello world!";
         System.out.println(greeting);
         System.out.println(greeting.length());
+        System.out.println("update");
     }
 }
 
